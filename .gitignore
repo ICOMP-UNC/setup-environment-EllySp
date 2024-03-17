@@ -14,6 +14,7 @@
 
 # Build directory
 /build/
+/cmake-build-debug/
 
 # External directoy
 /external/
