@@ -18,6 +18,9 @@
 # External directoy
 /external/
 
+# Doxygen output path
+/docs/
+
 # Dependency files
 *.d
 
