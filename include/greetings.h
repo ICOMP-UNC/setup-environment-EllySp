@@ -1,4 +1,6 @@
 #pragma ONCE
 
-//! Greets you! (Test Function)
+/**
+ * @brief Greets you! (Test function)
+ */
 void greetings();
