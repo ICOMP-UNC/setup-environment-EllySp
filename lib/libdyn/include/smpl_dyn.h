@@ -10,4 +10,4 @@
 
 int dynamic_lib_function(char *msg);
 
-#endif //SO2PROJECT_SMPL_DYN_H
+#endif // SO2PROJECT_SMPL_DYN_H

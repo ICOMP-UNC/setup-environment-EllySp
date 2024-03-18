@@ -1,6 +1,7 @@
-#include <stdio.h>
 #include "greetings.h"
+#include <stdio.h>
 
-void greetings(){
+void greetings()
+{
     printf("Howdy\n");
 }

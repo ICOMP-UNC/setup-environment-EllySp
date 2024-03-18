@@ -1,9 +1,10 @@
-#include <stdio.h>
 #include "greetings.h"
 #include "smpl_dyn.h"
 #include "smpl_sta.h"
+#include <stdio.h>
 
-int main(){
+int main()
+{
     printf("Hello\n");
     greetings();
 

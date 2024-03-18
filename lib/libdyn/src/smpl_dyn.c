@@ -6,7 +6,8 @@
 #include <stdio.h>
 #include <string.h>
 
-int dynamic_lib_function(char *msg){
+int dynamic_lib_function(char *msg)
+{
     printf("Hello there! I'm a shared library, I recieve the following message: %s\n", msg);
     return strlen(msg);
 }

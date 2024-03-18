@@ -10,4 +10,4 @@
 
 int static_lib_function(char *msg);
 
-#endif //SO2PROJECT_SMPL_STA_H
+#endif // SO2PROJECT_SMPL_STA_H
