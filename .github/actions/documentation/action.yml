@@ -13,7 +13,7 @@ runs:
           # Adds the "INPUT" variable to the Doxyfile
           {
               cat $DOX_CONF_FILE
-              echo "INPUT" = $(pwd)/src $(pwd)/include $(pwd)/lib
+              echo "INPUT" = $(pwd)/main.c $(pwd)/src $(pwd)/include $(pwd)/lib
           } > $DOX_CONF_FILE
 
           # Generate documentation
