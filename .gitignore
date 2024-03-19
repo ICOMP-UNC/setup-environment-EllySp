@@ -31,3 +31,12 @@
 
 # Dont track sonnar files
 .scannerwork/
+
+# Documentation files (Doxygen)
+/html/
+/latex/
+/rtf/
+/man/
+/xml/
+/docbook/
+/sqlite3/
