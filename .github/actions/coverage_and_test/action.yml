@@ -10,7 +10,7 @@ runs:
         PROJECT_PATH=$(pwd)
 
         # Run ctest specifying the test directory under the build folder. Also prints failed tests. 
-        ctest --test-dir build/tests --output-on-failure
+        ctest --test-dir build/test --output-on-failure
 
         # Prints coverage information on the coverage.txt file. Only show data for relative sources.
         gcovr -r $PROJECT_PATH . > $PROJECT_PATH/coverage.txt
