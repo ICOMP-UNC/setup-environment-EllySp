@@ -33,10 +33,10 @@
 .scannerwork/
 
 # Documentation files (Doxygen)
-/html/
-/latex/
-/rtf/
-/man/
-/xml/
-/docbook/
-/sqlite3/
+#/html/
+#/latex/
+#/rtf/
+#/man/
+#/xml/
+#/docbook/
+#/sqlite3/
