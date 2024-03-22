@@ -1,0 +1,42 @@
+# Compiled object files
+*.o
+
+# Executables
+*.exe
+*.out
+
+# Compiled libraries
+*.a
+*.so
+
+# Disable for now
+*.cmake
+
+# Build directory
+/build/
+/cmake-build-debug/
+
+# External directoy
+/external/
+
+# Doxygen output path
+/docs/
+
+# Dependency files
+*.d
+
+# Editor/IDE specific files
+.vscode/
+.idea/
+
+# Dont track sonnar files
+.scannerwork/
+
+# Documentation files (Doxygen)
+#/html/
+#/latex/
+#/rtf/
+#/man/
+#/xml/
+#/docbook/
+#/sqlite3/
